@@ -1,0 +1,1 @@
+conque_1.2.vba: call delete('/home/fbrolesi/.vim/autoload/conque_term.vim')|call delete('/home/fbrolesi/.vim/doc/conque_term.txt')|call delete('/home/fbrolesi/.vim/plugin/conque_term.vim')|call delete('/home/fbrolesi/.vim/syntax/conque_term.vim')
